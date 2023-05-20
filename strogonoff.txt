@@ -6,9 +6,9 @@ alho
 sal
 sal a gosto
 pimenta
-pimenta a gosto
+pimenta a setembro
 cebola
-1 cebola picada
+cebola picada
 maionese
 2 colheres (sopa) de maionese
 margarina
@@ -23,3 +23,5 @@ creme de leite
 1 copo de creme de leite
 batata palha
 batata palha a gosto
+tomate
+1 tomate picado
